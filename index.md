@@ -4,6 +4,7 @@
 ***Professional Experience***
 
 COLUMBIA UNIVERSITY LIBRARIES • New York, NY. March 2007-Present
+
 **GIS/Metadata Librarian, Research Data Services**
 -	Established and manage the Geodata@Columbia Geoportal
 -	Create metadata for the entirety of the library collection of over 6,000 geospatial datasets
@@ -12,7 +13,9 @@ COLUMBIA UNIVERSITY LIBRARIES • New York, NY. March 2007-Present
 -	Manage the library map collection
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF SOCIAL WORK • New York, NY. January 2017-Present
+
 **Adjunct Assistant Professor**
+
 -Taught GIS and Infographics for Social Work
 
 COLUMBIA UNIVERSITY DEPARTMENT OF ECOLOGY, EVOLUTION AND ENVIRONMENTAL BIOLOGY • New York, NY. September
