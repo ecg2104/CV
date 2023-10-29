@@ -26,7 +26,7 @@ COLUMBIA UNIVERSITY DEPARTMENT OF ANTHROPOLOGY • New York, NY. 2021
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF ARCHITECTURE PLANNING AND PRESERVATION • New York, NY. 2016-2019
 **Adjunct Assistant Professor**
-  -Co-taught Mapping for the Urban Humanities
+  - Co-taught Mapping for the Urban Humanities
 
 COLUMBIA UNIVERSITY LAW SCHOOL • New York, NY. July 2003-March 2007
 **Acquisitions Librarian, Arthur Diamond Law Library** (August 2005-March 2007)
