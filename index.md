@@ -53,12 +53,12 @@ The Ohio State University • Columbus, OH
  
 ***Professional Affiliations***
 - **American Library Association, Member** (ALA), 2001-2003, 2014-Present
-  -Map and Geospatial Information Roundtable (2014-present)
-   -Education Committee, member 2014-2015
+    - Map and Geospatial Information Roundtable (2014-present)
+    - Education Committee, member 2014-2015
 -	**Association of American Geographers, Member** (AAG), 2006-Present
--**North American Cartographic Information Society, Member** (NACIS), 2018-2020
+- **North American Cartographic Information Society, Member** (NACIS), 2018-2020
 - **American Association of Law Libraries, Member** (AALL), 2003-2007
-  -Technical Services Special Interest Section (2003-2007)
+    - Technical Services Special Interest Section (2003-2007)
 - **Special Library Association, Member,** 2002-2003
 
 ***Conference Attendance***
