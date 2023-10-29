@@ -1,5 +1,5 @@
 ## Eric Glass
-3213 Bailey Ave. 5G • Bronx, NY 10463 • 646-306-4681 • eric@eric.glass
+3123 Bailey Ave. 5G • Bronx, NY 10463 • 646-306-4681 • eric@eric.glass
 
 ***Professional Experience***
 
