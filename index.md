@@ -1,10 +1,10 @@
 ## Eric Glass
 3213 Bailey Ave. 5G • Bronx, NY 10463 • 646-306-4681 • eric@eric.glass
 
-### _Professional Experience_
+***Professional Experience***
 
 COLUMBIA UNIVERSITY LIBRARIES • New York, NY. March 2007-Present
-### GIS/Metadata Librarian, Research Data Services
+**GIS/Metadata Librarian, Research Data Services**
 -	Established and manage the Geodata@Columbia Geoportal
 -	Create metadata for the entirety of the library collection of over 6,000 geospatial datasets
 -	Coordinate GIS and spatial data research support
@@ -12,56 +12,56 @@ COLUMBIA UNIVERSITY LIBRARIES • New York, NY. March 2007-Present
 -	Manage the library map collection
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF SOCIAL WORK • New York, NY. January 2017-Present
-### Adjunct Assistant Professor
+**Adjunct Assistant Professor**
 -Taught GIS and Infographics for Social Work
 
 COLUMBIA UNIVERSITY DEPARTMENT OF ECOLOGY, EVOLUTION AND ENVIRONMENTAL BIOLOGY • New York, NY. September
 2022-Present
-### Adjunct Assistant Professor
+**Adjunct Assistant Professor**
 -Taught Introduction to Geographic Information
 
 COLUMBIA UNIVERSITY DEPARTMENT OF ANTHROPOLOGY • New York, NY. 2021
-### Adjunct Assistant Professor
+**Adjunct Assistant Professor**
 -Co-taught Hydropolitics in Madagascar
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF ARCHITECTURE PLANNING AND PRESERVATION • New York, NY. 2016-2019
-### Adjunct Assistant Professor
+**Adjunct Assistant Professor**
 -Co-taught Mapping for the Urban Humanities
 
 COLUMBIA UNIVERSITY LAW SCHOOL • New York, NY. July 2003-March 2007
-### Acquisitions Librarian, Arthur Diamond Law Library (August 2005-March 2007)
+**Acquisitions Librarian, Arthur Diamond Law Library** (August 2005-March 2007)
 -Led the Acquisitions unit, supervised two full time Bibliographic Assistants
-### Serials Librarian, Arthur Diamond Law Library (July 2003-August 2005)
+**Serials Librarian, Arthur Diamond Law Library** (July 2003-August 2005)
 -Led the Serials unit, supervised five full time Bibliographic Assistants
 
 UNIVERSITY OF TEXAS LAW SCHOOL • Austin, TX. January 2000-June 2003
-### Reserve Room Supervisor
+**Reserve Room Supervisor**
 
 ### _Education_
 
 Graduate Center, City University of New York • New York, NY
-### Doctoral Program in Earth and Environmental Sciences (2013-2018, ABD)
+**Doctoral Program in Earth and Environmental Sciences** (2013-2018, ABD)
 
 Hunter College, City University of New York • New York, NY
-### Master of Arts, Geography (May 2011)
+**Master of Arts, Geography** (May 2011)
 
 University of Texas • Austin, TX
-### Master of Library and Information Science (May 2003)
+**Master of Library and Information Science** (May 2003)
 
 The Ohio State University • Columbus, OH
-### Bachelor of Arts in English (March 1998)
+**Bachelor of Arts in English** (March 1998)
  
-### _Professional Affiliations_
-- American Library Association, Member (ALA), 2001-2003, 2014-Present
+***Professional Affiliations***
+- **American Library Association, Member** (ALA), 2001-2003, 2014-Present
   -Map and Geospatial Information Roundtable (2014-present)
    -Education Committee, member 2014-2015
--	Association of American Geographers, Member (AAG), 2006-Present
-- North American Cartographic Information Society, Member (NACIS), 2018-2020
-- American Association of Law Libraries, Member (AALL), 2003-2007
+-	**Association of American Geographers, Member** (AAG), 2006-Present
+-**North American Cartographic Information Society, Member** (NACIS), 2018-2020
+- **American Association of Law Libraries, Member** (AALL), 2003-2007
   -Technical Services Special Interest Section (2003-2007)
-- Special Library Association, Member, 2002-2003
+- **Special Library Association, Member,** 2002-2003
 
-### _Conference Attendance_
+***Conference Attendance***
 - Geo4lib camp: 2019, 2021
 - North American Cartographic Information Society Annual Meeting: 2018
 - International Cartographic Conference: 2107
@@ -78,7 +78,7 @@ The Ohio State University • Columbus, OH
 - American Association of Law Libraries Annual Meeting: 2003,2004,2005,2006
 - Northeast Document Conservation Center, School for Scanning: 2005
 
-### _Committees and Service_
+***Committees and Service***
 
 Columbia University Libraries
 - Professional Review Committee, 2018-2021
@@ -111,7 +111,7 @@ OpenGeoPortal
 - MAGIRT Education Committee, 2014-2015 3123 Bailey Board of Directors
 - Member and Secretary, 2016-2022
 
-### _Presentations_
+***Presentations***
 
 - “Spatial Data Resources for Teachers” – Center for Teaching and Learning Panel on Teaching and Learning Across the Disciplines with Geospatial Maps – New York City (October 2021)
 - “GIS Crash Course” – Laidlaw Scholars Program – New York City (May 2021)
@@ -148,7 +148,7 @@ OpenGeoPortal
 - “Introduction to GIS and Spatial Data” – ISERP Lecture Series – New York City (September 2009)
 - “Introduction to the FDGC metadata standard” - North East Map Organization Annual Meeting - New York City (May 2007)
 
-### _Workshops Taught_
+***Workshops Taught***
 
 - Introduction to Leaflet
 - Mapping In R
