@@ -6,36 +6,33 @@
 COLUMBIA UNIVERSITY LIBRARIES • New York, NY. March 2007-Present
 
 **GIS/Metadata Librarian, Research Data Services**
--	Established and manage the Geodata@Columbia Geoportal
--	Create metadata for the entirety of the library collection of over 6,000 geospatial datasets
--	Coordinate GIS and spatial data research support
--	Develop outreach and user instruction programs for GIS and data resources
--	Manage the library map collection
+  -	Established and manage the Geodata@Columbia Geoportal
+  -	Create metadata for the entirety of the library collection of over 6,000 geospatial datasets
+  -	Coordinate GIS and spatial data research support
+  -	Develop outreach and user instruction programs for GIS and data resources
+  -	Manage the library map collection
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF SOCIAL WORK • New York, NY. January 2017-Present
-
 **Adjunct Assistant Professor**
+  - Taught GIS and Infographics for Social Work
 
--Taught GIS and Infographics for Social Work
-
-COLUMBIA UNIVERSITY DEPARTMENT OF ECOLOGY, EVOLUTION AND ENVIRONMENTAL BIOLOGY • New York, NY. September
-2022-Present
+COLUMBIA UNIVERSITY DEPARTMENT OF ECOLOGY, EVOLUTION AND ENVIRONMENTAL BIOLOGY • New York, NY. September 2022-Present
 **Adjunct Assistant Professor**
--Taught Introduction to Geographic Information
+  - Taught Introduction to Geographic Information
 
 COLUMBIA UNIVERSITY DEPARTMENT OF ANTHROPOLOGY • New York, NY. 2021
 **Adjunct Assistant Professor**
--Co-taught Hydropolitics in Madagascar
+  - Co-taught Hydropolitics in Madagascar
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF ARCHITECTURE PLANNING AND PRESERVATION • New York, NY. 2016-2019
 **Adjunct Assistant Professor**
--Co-taught Mapping for the Urban Humanities
+  -Co-taught Mapping for the Urban Humanities
 
 COLUMBIA UNIVERSITY LAW SCHOOL • New York, NY. July 2003-March 2007
 **Acquisitions Librarian, Arthur Diamond Law Library** (August 2005-March 2007)
--Led the Acquisitions unit, supervised two full time Bibliographic Assistants
+  - Led the Acquisitions unit, supervised two full time Bibliographic Assistants
 **Serials Librarian, Arthur Diamond Law Library** (July 2003-August 2005)
--Led the Serials unit, supervised five full time Bibliographic Assistants
+  - Led the Serials unit, supervised five full time Bibliographic Assistants
 
 UNIVERSITY OF TEXAS LAW SCHOOL • Austin, TX. January 2000-June 2003
 **Reserve Room Supervisor**
