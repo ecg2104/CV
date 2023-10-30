@@ -17,17 +17,14 @@ COLUMBIA UNIVERSITY GRADUATE SCHOOL OF SOCIAL WORK • New York, NY. January 201
   - Taught GIS and Infographics for Social Work
 
 COLUMBIA UNIVERSITY DEPARTMENT OF ECOLOGY, EVOLUTION AND ENVIRONMENTAL BIOLOGY • New York, NY. September 2022-Present
-
 **Adjunct Assistant Professor**
   - Taught Introduction to Geographic Information
 
 COLUMBIA UNIVERSITY DEPARTMENT OF ANTHROPOLOGY • New York, NY. 2021
-
 **Adjunct Assistant Professor**
   - Co-taught Hydropolitics in Madagascar
 
 COLUMBIA UNIVERSITY GRADUATE SCHOOL OF ARCHITECTURE PLANNING AND PRESERVATION • New York, NY. 2016-2019
-
 **Adjunct Assistant Professor**
   - Co-taught Mapping for the Urban Humanities
 
