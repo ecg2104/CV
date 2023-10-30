@@ -33,7 +33,6 @@ COLUMBIA UNIVERSITY GRADUATE SCHOOL OF ARCHITECTURE PLANNING AND PRESERVATION â€
 
 
 COLUMBIA UNIVERSITY LAW SCHOOL â€¢ New York, NY. July 2003-March 2007  
-
 **Acquisitions Librarian, Arthur Diamond Law Library**(August 2005-March 2007)
   - Led the Acquisitions unit, supervised two full time Bibliographic Assistants
 
